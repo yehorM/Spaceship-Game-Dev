@@ -2,6 +2,7 @@
 
 Control a spaceship, upgrade it and kill a very very evil boss  
 Game engine - [GDevelop](https://gdevelop.io/)  
+
 [Git instruction](https://yehorm.github.io/Git-instruction/)
 
 [Trello](https://trello.com/b/LcbmIMya/spaceship-game-dev)
