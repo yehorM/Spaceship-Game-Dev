@@ -1,10 +1,10 @@
 # Spaceship-Game-Dev
 
 Control a spaceship, upgrade it and kill a very very evil boss  
-Game engine - GDevelop, https://gdevelop.io/. It's free.  
-Link to Git instruction - https://yehorm.github.io/Git-instruction/
+Game engine - [GDevelop](https://gdevelop.io/)  
+[Git instruction](https://yehorm.github.io/Git-instruction/)
 
-Link to Trello - https://trello.com/b/LcbmIMya/spaceship-game-dev
+[Trello](https://trello.com/b/LcbmIMya/spaceship-game-dev)
 
 [Demo](https://yehorm.github.io/Spaceship-Game-Dev/)
 
