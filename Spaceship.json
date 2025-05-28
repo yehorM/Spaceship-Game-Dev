@@ -2619,6 +2619,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Beginning of scene",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -3147,6 +3148,24 @@
                           ]
                         }
                       ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "RotateTowardPosition"
+                          },
+                          "parameters": [
+                            "Player",
+                            "MouseX()",
+                            "MouseY()",
+                            "180",
+                            ""
+                          ]
+                        }
+                      ]
                     }
                   ],
                   "parameters": []
@@ -3156,6 +3175,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Fire bullets",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -3281,6 +3301,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Asteroid splitting",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -3791,6 +3812,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Player health",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -4000,6 +4022,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Game over",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
