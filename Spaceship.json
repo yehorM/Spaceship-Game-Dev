@@ -2619,7 +2619,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Beginning of scene",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -2756,6 +2755,57 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "AnyKeyPressed"
+                          },
+                          "parameters": [
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "MouseButtonFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Left\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "LaserFire.wav",
+                        "0",
+                        "40",
+                        "RandomFloatInRange(0.9, 1.1)",
+                        ""
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -2792,6 +2842,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Motion trail",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -3002,6 +3053,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Player movement",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -3290,7 +3342,7 @@
                           "parameters": [
                             "",
                             "LaserFire.wav",
-                            "",
+                            "1",
                             "40",
                             "RandomFloatInRange(0.9, 1.1)"
                           ]
