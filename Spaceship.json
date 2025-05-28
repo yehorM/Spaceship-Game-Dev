@@ -24,7 +24,7 @@
     "author": "",
     "windowWidth": 960,
     "windowHeight": 540,
-    "latestCompilationDirectory": "C:\\Users\\helpe\\Desktop\\Final Final Test",
+    "latestCompilationDirectory": "C:\\Exports\\3",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -2889,6 +2889,15 @@
                                 "MultitouchButton",
                                 ""
                               ]
+                            },
+                            {
+                              "type": {
+                                "value": "MouseButtonFromTextPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "\"Right\""
+                              ]
                             }
                           ]
                         },
@@ -2931,6 +2940,16 @@
                           "parameters": [
                             "",
                             "Up"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "MouseButtonFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Right\""
                           ]
                         },
                         {
@@ -3022,6 +3041,15 @@
                                 "TopButton",
                                 "MultitouchButton",
                                 ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "MouseButtonFromTextPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "\"Right\""
                               ]
                             }
                           ]
@@ -3175,7 +3203,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "Fire bullets",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -3216,6 +3243,15 @@
                                 "FireButton",
                                 "MultitouchButton",
                                 ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "MouseButtonFromTextPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "\"Left\""
                               ]
                             }
                           ]
