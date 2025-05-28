@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__CameraShake__SetOctaves !== "undefined") {
 gdjs.evtsExt__CameraShake__SetOctaves = {};
 
 
-gdjs.evtsExt__CameraShake__SetOctaves.userFunc0xb22048 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__CameraShake__SetOctaves.userFunc0x939930 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const name = eventsFunctionContext.getArgument("Name");
 
@@ -19,7 +19,7 @@ gdjs.evtsExt__CameraShake__SetOctaves.eventsList0 = function(runtimeScene, event
 {
 
 
-gdjs.evtsExt__CameraShake__SetOctaves.userFunc0xb22048(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__CameraShake__SetOctaves.userFunc0x939930(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 

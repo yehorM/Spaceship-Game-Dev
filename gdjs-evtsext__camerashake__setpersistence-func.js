@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__CameraShake__SetPersistence !== "undefined") {
 gdjs.evtsExt__CameraShake__SetPersistence = {};
 
 
-gdjs.evtsExt__CameraShake__SetPersistence.userFunc0xb22048 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__CameraShake__SetPersistence.userFunc0x939930 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 const name = eventsFunctionContext.getArgument("Name");
 
@@ -19,7 +19,7 @@ gdjs.evtsExt__CameraShake__SetPersistence.eventsList0 = function(runtimeScene, e
 {
 
 
-gdjs.evtsExt__CameraShake__SetPersistence.userFunc0xb22048(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__CameraShake__SetPersistence.userFunc0x939930(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
