@@ -13,7 +13,9 @@ Link to Trello - https://trello.com/b/LcbmIMya/spaceship-game-dev
 Useful git commands for deployment
 - delete all files quietly
 - delete all folders recursively and quietly
+- transfer game build
 ```
 del /Q *.*
 for /D %G in (*) do rd /S /Q "%G"
+xcopy C:\Exports\1\* . /E /I /Y /H
 ```
