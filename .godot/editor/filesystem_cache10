@@ -1,0 +1,41 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1748718100
+HUD.gd::GDScript::2844396065810846769::1748718033::0::1::::<>CanvasLayer<><>0<>0<><>::
+HUD.tscn::PackedScene::-1::1748718033::0::1::::<><><>0<>0<><>::res://HUD.gd<>res://fonts/Xolonium-Regular.ttf
+icon.png::CompressedTexture2D::2917248811753608030::1748717766::1748718101::1::::<><><>0<>0<>55f3bc3e51906538826edb882f0de26f<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
+Main.gd::GDScript::7799572118916427840::1748718033::0::1::::<>Node<><>0<>0<><>::
+Main.tscn::PackedScene::-1::1748718033::0::1::::<><><>0<>0<><>::res://Main.gd<>res://Mob.tscn<>res://Player.tscn<>res://HUD.tscn<>res://art/House In a Forest Loop.ogg<>res://art/gameover.wav<>res://art/background.jpeg
+Mob2.gd::GDScript::750328250752260199::1748718034::0::1::::<>RigidBody2D<><>0<>0<><>::
+Mob2.tscn::PackedScene::-1::1748718034::0::1::::<><><>0<>0<><>::res://art/asteroid.png<>res://Mob2.gd
+Mob.gd::GDScript::5914246583196936578::1748718033::0::1::::<>RigidBody2D<><>0<>0<><>::
+Mob.tscn::PackedScene::-1::1748718034::0::1::::<><><>0<>0<><>::res://Mob.gd<>res://art/CelestialObjects.png
+Player.gd::GDScript::801121600538667732::1748718034::0::1::::<>Area2D<><>0<>0<><>::
+Player.tscn::PackedScene::-1::1748718034::0::1::::<><><>0<>0<><>::res://Player.gd<>res://art/spaceship.png<>res://art/firetrail.png<>res://art/spaceship - right.png
+::res://art/::1748717770
+asteroid.png::CompressedTexture2D::4833956009803320027::1748717766::1748718101::1::::<><><>0<>0<>b57ac4c4cfbd8b89dafa96da1e202292<>res://.godot/imported/asteroid.png-22747f653cd9f77744c212c750a26aff.ctex::
+background.jpeg::CompressedTexture2D::634718809885647251::1748717766::1748718101::1::::<><><>0<>0<>d7975b1592217a173656e612523ade79<>res://.godot/imported/background.jpeg-2355332febb7b13f2ccd69187e1968e9.ctex::
+CelestialObjects.png::CompressedTexture2D::8510295888668210213::1748717766::1748718101::1::::<><><>0<>0<>1b775218d2677a012379b7c3769e28fa<>res://.godot/imported/CelestialObjects.png-fcb410cc3479288b4316d5b84be49aef.ctex::
+enemyFlyingAlt_1.png::CompressedTexture2D::1515608664961510554::1748717766::1748718101::1::::<><><>0<>0<>be30b8723415622a4f1c7e26112612d2<>res://.godot/imported/enemyFlyingAlt_1.png-559f599b16c69b112c1b53f6332e9489.ctex::
+enemyFlyingAlt_2.png::CompressedTexture2D::1100383815702292563::1748717766::1748718101::1::::<><><>0<>0<>ef52df9c8ddb8b584247c3d9bd23b141<>res://.godot/imported/enemyFlyingAlt_2.png-31dc7310eda6e1b721224f3cd932c076.ctex::
+enemySwimming_1.png::CompressedTexture2D::7019106869212509483::1748717766::1748718101::1::::<><><>0<>0<>0cdabc085f8c55a1c081085072d1858a<>res://.godot/imported/enemySwimming_1.png-dd0e11759dc3d624c8a704f6e98a3d80.ctex::
+enemySwimming_2.png::CompressedTexture2D::7826771430527327940::1748717766::1748718101::1::::<><><>0<>0<>a49a8ce68289b321b4092e518fee5bd8<>res://.godot/imported/enemySwimming_2.png-4c0cbc0732264c4ea3290340bd4a0a62.ctex::
+enemyWalking_1.png::CompressedTexture2D::725051462356100633::1748717766::1748718101::1::::<><><>0<>0<>ecddc6dd2da520b4d767e0defd9f1978<>res://.godot/imported/enemyWalking_1.png-5af6eedbe61b701677d490ffdc1e6471.ctex::
+enemyWalking_2.png::CompressedTexture2D::2284680921112432011::1748717766::1748718101::1::::<><><>0<>0<>75e22d87127ab0246e6522f8e17c0816<>res://.godot/imported/enemyWalking_2.png-67c480ed60c35e95f5acb0436246b935.ctex::
+fire.png::CompressedTexture2D::2549713125913565357::1748717766::1748718101::1::::<><><>0<>0<>84b6a174d7310e9ad2b5d28168c1b3f0<>res://.godot/imported/fire.png-4b1bba03b0083d88345d5bf278afc689.ctex::
+firetrail.png::CompressedTexture2D::2640887694498473903::1748717766::1748718101::1::::<><><>0<>0<>583dddf334d2e048a001662feeb67a48<>res://.godot/imported/firetrail.png-a7b69e5a5dc4766c50bc524695c1575a.ctex::
+gameover.wav::AudioStreamWAV::1242758284890473564::1748717766::1748718101::1::::<><><>0<>0<>1d6f90598c5b45bcabc18e51c048b180<>res://.godot/imported/gameover.wav-98c95c744b35280048c2bd093cf8a356.sample::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::8966539147982352436::1748717766::1748718101::1::::<><><>0<>0<>f6672504bb948222ec10e5e191b059f4<>res://.godot/imported/House In a Forest Loop.ogg-1a6a72ae843ad792b7039931227e8d50.oggvorbisstr::
+playerGrey_up1.png::CompressedTexture2D::5537536134670383952::1748717766::1748718101::1::::<><><>0<>0<>2a1e4cf042a8fdaec52c64c2ca6a335a<>res://.godot/imported/playerGrey_up1.png-6bd114d0a6beac91f48e3a7314d44564.ctex::
+playerGrey_up2.png::CompressedTexture2D::7902004430658153294::1748717766::1748718101::1::::<><><>0<>0<>74e415a0aff71929c4758a96eee35040<>res://.godot/imported/playerGrey_up2.png-d6aba85f5f2675ebc7045efa7552ee79.ctex::
+playerGrey_walk1.png::CompressedTexture2D::7795799605303883906::1748717766::1748718101::1::::<><><>0<>0<>a77732f69b4fb4e14a5a20b89fa9c5f5<>res://.godot/imported/playerGrey_walk1.png-c4773fe7a7bf85d7ab732eb4458c2742.ctex::
+playerGrey_walk2.png::CompressedTexture2D::6937881729156912277::1748717766::1748718101::1::::<><><>0<>0<>aa6b72dd9a9667dde4af1aca36a45716<>res://.godot/imported/playerGrey_walk2.png-34d2d916366100182d08037c51884043.ctex::
+resized.png::CompressedTexture2D::4475416618459762983::1748717766::1748718101::1::::<><><>0<>0<>af876038e054e8e58f8d37c1ed47b0c9<>res://.godot/imported/resized.png-026d998159d018764be7f80920dcb18d.ctex::
+spaceship - left.png::CompressedTexture2D::3481619400078669914::1748717766::1748718101::1::::<><><>0<>0<>99f458f3948d46031ad77f7d6b3789f6<>res://.godot/imported/spaceship - left.png-415e44d723f5c62556be6215d5c7ac01.ctex::
+spaceship - right.png::CompressedTexture2D::1448766638399687326::1748717766::1748718101::1::::<><><>0<>0<>159a2702c64a510e8b9aa96dbc10ada7<>res://.godot/imported/spaceship - right.png-9a503129cb8edde251b428af76d5c66d.ctex::
+spaceship.png::CompressedTexture2D::587260434016968622::1748717766::1748718101::1::::<><><>0<>0<>de5ef392fb1e4eb07a48eaee4128fdc5<>res://.godot/imported/spaceship.png-84a5a291ede3a9e047e7db5f57fb4a81.ctex::
+::res://fonts/::1748717766
+FONTLOG.txt::TextFile::-1::1748717766::0::1::::<><><>0<>0<><>::
+LICENSE.txt::TextFile::-1::1748717766::0::1::::<><><>0<>0<><>::
+Xolonium-Regular.ttf::FontFile::1385101326185937426::1748717766::1748718101::1::::<><><>0<>0<>5eb69ec187e86cc8f481babe643bf280<>res://.godot/imported/Xolonium-Regular.ttf-bc2981e3069cff4c34dd7c8e2bb73fba.fontdata::
+::res://screenshots/::1748717770
+dodge.png::CompressedTexture2D::6249788369359944042::1748717766::1748718101::1::::<><><>0<>0<>cc931c016c3b0241edece059c4d38ed7<>res://.godot/imported/dodge.png-1b0f72d361d33fd6377f049c2697295e.ctex::
